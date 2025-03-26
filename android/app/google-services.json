@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423030994787",
+    "project_id": "local-emulator-5b07a",
+    "storage_bucket": "local-emulator-5b07a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423030994787:android:e584355de4495700e04556",
+        "android_client_info": {
+          "package_name": "com.example.local_emulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yxl8C_0snHowKXhkqxY_fQGPQHWa-_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
